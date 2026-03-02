@@ -1,1 +1,17 @@
+:root {
+  --primary: #0f1115;
+  --secondary: #151821;
+  --text1: #E6E8EE;
+  --text2: #8B98AF;
+  --accent1: #252B39;
+  --accent2: #003566;
+  --soft-glow: rgba(0, 50, 100, 0.5);
+  --soft-shadow: rgba(0, 0, 0, 0.4);
+  --soft-surface: rgba(255, 255, 255, 0.02);
+}
 
+.container {
+  width: 90%
+  margin: 0 auto;
+  max-width: 1100px;
+}
